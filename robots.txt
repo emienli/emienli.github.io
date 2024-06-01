@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stefaes.github.io/sitemap/sitemap.txt
